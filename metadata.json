@@ -1,0 +1,6 @@
+{
+  "name": "7H SIAM Telegram AI Bot",
+  "description": "An AI-powered auto-reply Telegram bot using MTProto and Gemini 2.5 via OpenRouter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
